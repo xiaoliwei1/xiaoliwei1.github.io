@@ -1,4 +1,4 @@
-## Welcome to Xiaoli Wei's homepage   
+# Welcome to Xiaoli Wei's homepage   
 
 <table><tr><td valign="top" width="20%"><br />   
 
@@ -7,7 +7,7 @@
 </td><td valign="top" width="80%">    
 
 
-### About me   
+## About me   
 
 - Currently I am an associate professor at [Institute for Advanced Study in Mathematics (IASM)](http://im.hit.edu.cn/en/) of Harbin Institute of Technology.<br />   
 
